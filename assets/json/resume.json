@@ -1,24 +1,29 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "André Wendler",
+    "label": "Medienkulturwissenschaftler",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
+    "email": "",
+    "phone": "",
+    "url": "https://andrewendler.de",
     "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "",
+      "postalCode": "",
+      "city": "Leipzig",
+      "countryCode": "DE",
+      "region": ""
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "Mastodon",
+        "username": "@awndlr@openbiblio.social",
+        "url": "https://openbiblio.social/@awndlr"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "awndlr",
+        "url": "https://www.linkedin.com/in/awndlr/"
       }
     ]
   },
